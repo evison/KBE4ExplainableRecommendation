@@ -1,0 +1,3 @@
+All datasets used by the code can be downloaded from the following URL:
+
+https://www.dropbox.com/s/th672ttebwxhsfx/CIKM2017.zip?dl=0
