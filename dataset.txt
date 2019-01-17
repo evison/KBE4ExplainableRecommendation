@@ -1,3 +1,7 @@
 All datasets used by the code can be downloaded from the following URL:
 
 https://www.dropbox.com/s/th672ttebwxhsfx/CIKM2017.zip?dl=0
+
+The user and item latent facotrs are learned by standard BPR algorithm, which can be downloaded from the following URL:
+
+https://www.dropbox.com/sh/tcqs8250ohnguma/AAC19tDI3XAy4233BkKXveYWa?dl=0
