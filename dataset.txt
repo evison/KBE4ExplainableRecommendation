@@ -9,3 +9,7 @@ https://drive.google.com/drive/folders/1RG_izwfdXrjTUkIlnRnp4dp1f2Mk33L6?usp=sha
 The user and item latent facotrs are learned by standard BPR algorithm, which can be downloaded from the following URL:
 
 https://www.dropbox.com/sh/tcqs8250ohnguma/AAC19tDI3XAy4233BkKXveYWa?dl=0
+
+If the above link doesn't work, please click the following link:
+
+https://drive.google.com/file/d/1msi6DXKwTJf6oCxW01J1JFxEm4tXpr8A/view?usp=sharing
